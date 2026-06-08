@@ -18,7 +18,7 @@ My Data Engineering learning repository.
 - Local Spark Setup
 - Python Worker Configuration
 
-## Upcoming
+## Upcoming Sections
 
 - Transformations
 - Actions
